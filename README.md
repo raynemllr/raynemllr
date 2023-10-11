@@ -38,5 +38,5 @@
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=raynemllr&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500" />
+    <img src="https://streak-stats.demolab.com?user=raynemllr&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=1000" />
 </div>
