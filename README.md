@@ -30,8 +30,8 @@
 <h2 align="center">Languages / Frameworks / Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel,tailwind,bootstrap,materialui,sass,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,netlify,gcp,azure,supabase,git,bash,babel,github,vite,vscode,ps,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=sass,nodejs,express,mongodb,mysql,netlify,gcp,azure,supabase,ps,figma" /><br>
 </div>
 
 <br/>
