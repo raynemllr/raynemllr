@@ -22,7 +22,18 @@
   <a href="mailto:raynemllr.5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/rayne-mallari-7476bb202" target="_blank">
+  <a href="https://linkedin.com/in/rayne-mallari-7476bb202" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel,tailwind,bootstrap,materialui,sass,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,netlify,gcp,azure,supabse,git,bash,babel,github,vite,vscode,ps,figma" /><br>
+</div>
+
+<br/>
+
+
