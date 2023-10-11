@@ -27,13 +27,14 @@
   </a>
 </div>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages / Frameworks / Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel,tailwind,bootstrap,materialui,sass,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,netlify,gcp,azure,supabse,git,bash,babel,github,vite,vscode,ps,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,netlify,gcp,azure,supabase,git,bash,babel,github,vite,vscode,ps,figma" /><br>
 </div>
 
 <br/>
 
-
+<h2 align="center">My Stats</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raynemllr&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
