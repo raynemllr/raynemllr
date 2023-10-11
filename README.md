@@ -37,4 +37,6 @@
 <br/>
 
 <h2 align="center">My Stats</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=raynemllr&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=raynemllr&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500" />
+</div>
