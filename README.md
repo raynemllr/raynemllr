@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Currently, I specialize in **Front-End Development with React/Next/Typescript**
+ 📍 At present, I specialize in **Front-End Development with React/Next/Typescript**
  
  👨‍💻 I’m currently mastering **Full-Stack NextJS**
 
