@@ -13,8 +13,6 @@
  📍 At present, I specialize in **Front-End Development with React/Next/Typescript**
  
  👨‍💻 I’m currently mastering **Full-Stack NextJS**
-
- ⚡ Fun fact **HAHAHAHAHA**
  
  </div>
 
